@@ -5,4 +5,6 @@
 | convolution3-training | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andylucny/OAI/blob/master/01-convolution/convolution3-training.ipynb) |
 | convolution4-testing | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andylucny/OAI/blob/master/01-convolution/convolution4-testing.ipynb) |
 | convolution5-mlps | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andylucny/OAI/blob/master/01-convolution/convolution5-mlps.ipynb) |
+| denoising | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andylucny/OAI/blob/master/01-convolution/denoising.ipynb) |
+| denoising + outputs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andylucny/OAI/blob/master/01-convolution/denoising-outputs.ipynb) |
 | homework01 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andylucny/OAI/blob/master/01-convolution/homework01.ipynb) |
